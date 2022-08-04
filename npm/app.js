@@ -19,5 +19,7 @@ app.use(bodyParser.json());
 app.use('/api_v1', feedRoutes);
 //declaration of the routes.
 
+// Server port to be changes to some free port
 app.listen(8088);
 //run the server in any port of your choice
+
