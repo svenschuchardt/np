@@ -1,0 +1,18 @@
+[
+    {
+        "offerID"   : "O-0042",
+        "title"     : "I am the offer 42"
+    },
+    {
+        "offerID"   : "O-0043",
+        "title"     : "I am the offer 43"
+    },
+    {
+        "offerID"   : "O-0044",
+        "title"     : "I am the offer 44"
+    },
+    {
+        "offerID"   : "O-0045",
+        "title"     : "I am the offer 45"
+    }
+]
